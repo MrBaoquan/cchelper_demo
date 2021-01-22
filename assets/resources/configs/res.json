@@ -1,0 +1,31 @@
+{
+    "Persistence":{
+        "assets":[
+            {
+                "type":"Prefab",
+                "url":"cc-helper://resources"
+            }
+        ]
+    },
+
+    "SceneEntry":{
+        "autoRelease":false,
+        "assets":[
+            {
+                "type":"Prefab",
+                "url":"login://prefabs"
+            }
+        ]
+    },
+
+    "SceneHall":{
+        "bundle":"scene-hall",
+        "autoRelease":true,
+        "assets":[
+            {
+                "type":"Prefab",
+                "url":"scene-hall://prefabs"
+            }
+        ]
+    }
+}

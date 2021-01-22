@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "ffbd029c-ede1-4712-94be-c4607ddbc30d",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/cc-helper/scripts/core/UIManager/UIManager.js",
+    "importerSettings": 7
+  }
+}

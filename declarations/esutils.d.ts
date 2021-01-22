@@ -1,0 +1,1 @@
+declare function isset(target:any):boolean;

@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "67200248-058f-4416-a93c-5496187e0049",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/cc-helper/scripts/facades/Managements.js",
+    "importerSettings": 7
+  }
+}

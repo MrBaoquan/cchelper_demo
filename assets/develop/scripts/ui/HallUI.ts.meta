@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "f98d2dcb-ffb3-4808-ac39-85c48f8f3245",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/develop/scripts/ui/HallUI.js",
+    "importerSettings": 7
+  }
+}

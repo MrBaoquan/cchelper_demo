@@ -1,0 +1,18 @@
+
+#///////////////////////////
+# Cocos Creator 3D Project
+#///////////////////////////
+library/
+temp/
+local/
+build/
+profiles/
+
+node_modules/
+
+.vscode/
+.idea/
+
+priview-template/
+
+*.tar.gz

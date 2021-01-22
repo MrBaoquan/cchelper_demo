@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "882c46c0-666e-4c72-bf86-bbf2c1699653",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/cc-helper/es-helper/utils/Singleton.js",
+    "importerSettings": 7
+  }
+}

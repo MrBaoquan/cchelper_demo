@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "6ae44a2b-9ed9-438b-8fc6-ff95544285c1",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/develop/scripts/SceneEntryScript.js",
+    "importerSettings": 7
+  }
+}

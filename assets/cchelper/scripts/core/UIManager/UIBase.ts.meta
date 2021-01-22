@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "d435e32c-3ad8-4577-ab75-1418a1736756",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/cc-helper/scripts/core/UIManager/UIBase.js",
+    "importerSettings": 7
+  }
+}

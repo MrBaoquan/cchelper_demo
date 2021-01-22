@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "2af3bab5-1536-449d-8a72-6e918ce3c8db",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/develop/scripts/ui/LoginUI.js",
+    "importerSettings": 7
+  }
+}

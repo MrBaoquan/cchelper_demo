@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "1ec9ff1f-7a93-4211-9344-21bbb31b37ea",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/develop/scripts/SceneHallScript.js",
+    "importerSettings": 7
+  }
+}

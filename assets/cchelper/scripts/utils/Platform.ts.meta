@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "2ec558e9-4112-4813-a1a5-4f2e23345bcb",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/cc-helper/scripts/utils/Platform.js",
+    "importerSettings": 7
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "2b74997a-e03a-49db-bb90-2fe69d670af5",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/cc-helper/scripts/core/TypeDefinitions.js",
+    "importerSettings": 7
+  }
+}

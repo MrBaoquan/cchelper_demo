@@ -1,0 +1,40 @@
+{
+    "name": "cchelper",
+    "package_version": 2,
+    "version": "0.1.0",
+    "description": "cocos 3.0+ 开发框架",
+    "author": "MrBaoquan <mrma617@gmail.com>",
+    "main": "main.js",
+    "contributions": {
+        "scene": {
+            "script": "./scene.js"
+        },
+        
+        "menu": [{
+                "path": "CCHelper",
+                "label": "Test",
+                "message": "log"
+            },
+            {
+                "path": "i18n:menu.project/创建UI脚本",
+                "label": "Open Hello World",
+                "message": "log"
+        }],
+        "messages": {
+            "log": {
+                "methods": ["log"]
+            },
+            "selection:activated":{
+                "methods":["updateActivatedDir"]
+            }
+        }
+    },
+
+    "panels":{
+        "create-file": {
+            "title": "创建UI脚本",
+            "type": "dockable",
+            "main": "./panels/create-file.js"
+        }
+    }
+}

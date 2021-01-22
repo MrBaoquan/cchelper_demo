@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "bb73fd64-ba5f-4e23-aa02-2d0fd4b988eb",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/cc-helper/es-helper/utils/Logger.js",
+    "importerSettings": 7
+  }
+}

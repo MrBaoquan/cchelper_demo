@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "1a3ffd7d-6df1-4d05-8f93-38b82f0c8cc9",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/cc-helper/scripts/utils/CCUtils.js",
+    "importerSettings": 7
+  }
+}

@@ -1,0 +1,21 @@
+import { scene_script } from "../../cc-helper/scripts/core/TypeDefinitions";
+
+@scene_script("###classname###")
+export class ###classname###
+{
+    start()
+    {
+
+    }
+
+    update()
+    {
+
+    }
+
+    destroy()
+    {
+
+    }
+
+}

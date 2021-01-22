@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "c1a007a0-0cdc-4991-b8cc-ef9da3617906",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/cc-helper/scripts/core/SceneManager/SceneScriptManager.js",
+    "importerSettings": 7
+  }
+}

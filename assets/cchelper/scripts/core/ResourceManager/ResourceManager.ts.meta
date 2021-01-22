@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "8204038f-913e-4648-8b15-1f6b04e72f08",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/cc-helper/scripts/core/ResourceManager/ResourceManager.js",
+    "importerSettings": 7
+  }
+}

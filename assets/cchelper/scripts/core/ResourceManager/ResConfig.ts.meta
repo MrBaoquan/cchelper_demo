@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "0ad220d2-437d-4a27-9973-1c3d88b6a3c3",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/cc-helper/scripts/core/ResourceManager/ResConfig.js",
+    "importerSettings": 7
+  }
+}

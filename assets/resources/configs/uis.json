@@ -1,0 +1,24 @@
+{
+    "Persistence":[
+        {
+            "name":"SceneLoadingUI",
+            "script":"SceneLoadingUI",
+            "asset":"SceneLoadingUI",
+            "type":"Normal"
+        }
+    ],
+
+    "SceneEntry":[
+        {
+            "name":"LoginUI",
+            "type":"Normal"
+        }
+    ],
+
+    "SceneHall":[
+        {
+            "name":"HallUI",
+            "type":"Normal"
+        }
+    ]
+}

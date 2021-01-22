@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "e5a7b83f-1440-43a5-bcc0-6eff275772a6",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/cc-helper/es-helper/utils/ESUtils.js",
+    "importerSettings": 7
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "NewProject_1",
+  "type": "3d",
+  "uuid": "007954ab-34ae-4662-96a0-8f4d1137bc52",
+  "version": "3.0.0",
+  "devDependencies": {
+    "@typescript-eslint/parser": "^4.13.0",
+    "eslint": "^7.17.0"
+  },
+  "dependencies": {}
+}
