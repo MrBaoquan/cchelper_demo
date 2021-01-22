@@ -3,7 +3,7 @@
         "assets":[
             {
                 "type":"Prefab",
-                "url":"cc-helper://resources"
+                "url":"cchelper://resources"
             }
         ]
     },
